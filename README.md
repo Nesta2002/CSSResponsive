@@ -1,4 +1,15 @@
 # CSSResponsive
+1. Kenapa kita perlu membuat web dengan responsive?
+    Agar berubah tampilannya saat dalam mode mobile maupun tab.
+2. Bagaimana cara membuat web dengan responsive? Jelaskan!
+    Dengan mensetting ukuran ukuran untuk mobile maupun tab. 
+3. Apa maksud dari kode "initial- scale=1.0” ?
+    
+4. Bagian mana saja yang perlu kita atur/buat responsive dalam sebuah web!
+    
+
+
+
 ![alt text](https://github.com/Nesta2002/CSSResponsive/blob/master/Screenshot%20(143).png)
 ![alt text](https://github.com/Nesta2002/CSSResponsive/blob/master/Screenshot%20(144).png)
 ![alt text](https://github.com/Nesta2002/CSSResponsive/blob/master/Screenshot%20(145).png)
